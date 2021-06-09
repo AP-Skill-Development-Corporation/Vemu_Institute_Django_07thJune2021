@@ -1,0 +1,94 @@
+GoodAfternoon to all
+====================
+
+The session will be start at 2:05
+
+
+Day Objectives:
+---------------
+- s/w requirements for Django
+		- python 3.6.8
+	        - sublime text
+		- pip install django
+
+- Django introduction
+
+ - it is a framework using for developing a webaplications
+
+ - every frame work should follow one structure that is 
+		MVC
+
+web frameworks in python:
+==========================
+	- django
+	- flask
+	- web2py
+	- bottle
+	- cherrypy
+webframework:
+-------------
+- it is designed to support the development of webapplications
+	- web services
+	- web resources
+	- web API's
+
+MVC:(model view controller):
+----------------------------
+M:db connections
+V:here we can write logic for user representation
+C:here we can build main logic for controlling both model and views
+
+- django will follow MVT structure
+
+MVT:(model view templates)
+==========================
+M:store db conncetions
+V:will work like controller
+T:store .html files
+
+project creation:
+=================
+- 1. we have to choose one location for project creation
+in that you have to create one folder
+
+ 2. in that location you have to cmd
+
+ 3. in django one command is there for project creation
+
+		"django-admin startproject projectname"
+		ex:
+			django-admin startproject myProject
+
+
+
+		__init__:this empty file
+		asgi:asyncronous server gateway interface
+		wsgi:web service gateway interface(hosting purpose)
+		setting.py:we will make all project settings
+		manage.py:execution is starts from here
+		urls.py:we will map or create our urls
+
+App creation:
+============
+-  "python manage.py startapp appname"
+
+ex: python manage.py startapp myApp
+
+		migrations:it will handle all db connections
+		__init__:
+		admin:we will give permission to admin for acessing model
+		apps.py:app information
+		models:we will db connections
+		views:main controller
+
+runserver:
+==========
+	python manage.py runserver
+
+
+
+
+
+
+
+
