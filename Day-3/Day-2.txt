@@ -1,0 +1,46 @@
+GoodAfternoon To all:
+====================
+
+Day Objectives:
+--------------
+- URL Mapping
+
+- we have to register our application in settings.py
+
+	-path(urlname,views.function name(views),name of the url),
+     
+   localhost:8000/urlname
+
+	ex: localhost:8000/hi
+
+	o/p:hai welcome to Django session
+
+	- interface b/w urls to views
+
+heading tags:h1 to h6
+
+property:value;
+
+concatination
+	name="apssdc"
+	response("welcome to apssdc")
+
+-Dynamic Url mapping(change):
+------------------------------
+
+
+	localhost:8000/urlname -static urls
+
+	localhost:8000/home/<data type:variablename> -dynamic 
+
+	response:"my name is siri"  
+		  my name is nandini
+
+	format()-{}
+
+task:
+----
+
+
+		
+
