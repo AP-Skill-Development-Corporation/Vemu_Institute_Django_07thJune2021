@@ -1,0 +1,69 @@
+good afternoon ato all:
+------------------------
+
+DayObjectives:
+-------------	
+	- dynamic URLmapping
+
+	- tas:
+	------- 
+	path('urlname',views.function,name of the url)- static
+	path('urlname/<datatype:variable>',views.function,name of the url)-dynamic
+
+
+Django templates:
+-----------------
+MVT:
+Templates:.html files
+	user -> urls -> views -> templates
+
+- return HttpResponse("")
+
+- return render(paramerter1,parameter2,parameter3)
+
+	ex:return render(request,'html file location',dictionary)
+			(request,'myApp/sample.html',{})
+
+{}:if you want to send data from views to html 
+
+data rendering -DTL
+
+DTL(Django template language)
+-------------------------------
+
+	syntax:
+		conditional statements
+
+		{% if condition %}
+
+			statements
+			----------  {{}}- printing
+			----------
+
+		{% end condition%}
+
+		loops:
+		-------
+		{% for i in data%}
+			{{}}
+		{% end for%}
+
+
+
+Template creation:
+-----------------
+1. right click on your app and take a new folder and save that as "templates"
+2.again you have to one more folder with your name templates->"myApp"
+
+html structure:
+---------------
+-start
+- doctype
+- head
+- body
+-end
+   <ht+enter
+
+	<h1></h1> to <h6></h6>
+
+
