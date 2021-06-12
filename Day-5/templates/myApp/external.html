@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>External Css</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/sample.css'%}">
+	<style type="text/css">
+		body{
+			background-image: url({% static 'images/card12.jpg' %})
+		}
+	</style>
+</head>
+<body>
+<form>
+	<h3>Signup Page</h3>
+	<input type="text" name="name" placeholder="Enter your name" required=""><br><br>
+	<input type="text" name="email" placeholder="Enter your email" required=""><br><br>
+	<input type="password" name="psw" placeholder="Enter your password" required=""><br><br>
+	<input type="password" name="cpsw" placeholder="Enter your Confirm Password" required=""><br><br>
+	<button>Signup</button>
+</form>
+</body>
+</html>
