@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1_xHDT1zPHxjP-z-P8HDiJUGdaixQ5Mqi/view
 
 [Day 4](https://transcripts.gotomeeting.com/#/s/3a8a4b8c76cfbbc77bebc5314e83842b2951ccb3efd5f28af7ee74de413d2585)
 
+[Day 6](https://transcripts.gotomeeting.com/#/s/d8df49656bf07143d76f8f75a8e2b4e42d75d643347026c58000432e566e369c)
 
 
 
