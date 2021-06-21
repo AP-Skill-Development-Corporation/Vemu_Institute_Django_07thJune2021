@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Details</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css'%}">
+  	<script type="text/javascript" src="{% static 'js/bootstrap.min.js'%}"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="card">
+			<div class="card-body">
+				<h3 class="bg-info text-white text-center p-2 border rounded">Register Details</h3>
+				<p>Your Name is : {{uname}}</p>
+				<p>Email - Id : {{mail}}</p>
+				<p>Mobile number: {{mob}}</p>
+				<p>Gender : {{gender}}</p>
+				<p>Date of Birth : {{dateofbirth}}</p>
+				<p>Languages Known: {{languagues}}</p>
+				<p>Filename which you have uploaded: {{fname}}</p>
+			</div>
+			
+		</div>
+		
+	</div>
+</body>
+</html>
