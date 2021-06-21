@@ -20,3 +20,9 @@ https://drive.google.com/file/d/1_xHDT1zPHxjP-z-P8HDiJUGdaixQ5Mqi/view
 
 [Day 8](https://transcripts.gotomeeting.com/#/s/1bccc171ef0d779b4612a7cbf857204ab467edb68694db22dfe995087be0f490)
 
+[Day 9](https://transcripts.gotomeeting.com/#/s/3f6ccab53639443473ca5c4c7ce81d397392110ce1ea52f965eb33f148db40db)
+
+[Day 10](https://transcripts.gotomeeting.com/#/s/ad44c1fd29d8841d0fa2148ac438e7304b1ff924c154c483245feff5e43dc5c4)
+
+[Day 11](https://transcripts.gotomeeting.com/#/s/009870b487dccf845a01b3193ad0c75c1dd152061531d7261073ec656134e8d3)
+
