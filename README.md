@@ -25,4 +25,3 @@ https://drive.google.com/file/d/1_xHDT1zPHxjP-z-P8HDiJUGdaixQ5Mqi/view
 [Day 10](https://transcripts.gotomeeting.com/#/s/ad44c1fd29d8841d0fa2148ac438e7304b1ff924c154c483245feff5e43dc5c4)
 
 [Day 11](https://transcripts.gotomeeting.com/#/s/009870b487dccf845a01b3193ad0c75c1dd152061531d7261073ec656134e8d3)
-
