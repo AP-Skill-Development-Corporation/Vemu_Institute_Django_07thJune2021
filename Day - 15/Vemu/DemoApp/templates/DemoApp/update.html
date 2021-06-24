@@ -1,0 +1,20 @@
+{% extends 'DemoApp/base.html' %}
+{% block title %}Update{% endblock %}
+{% block content %}
+<div class="container">
+	<div class="card col-md-6 mx-auto mt-2">
+		<h2 class="bg-primary text-white text-center border-rounded mt-3">Update</h2>
+		<form method="POST">
+			{% csrf_token %}
+			<table class="table table-bordered">
+				{% for i in data %}
+				<tr>
+					<td>{{i}}</td>
+				</tr>
+				{% endfor %}
+			</table>
+			<input type="submit" name="submit" value="Update" class=" form-control btn btn-outline-success">
+		</form>
+	</div>
+</div>
+{% endblock %}
