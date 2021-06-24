@@ -1,0 +1,13 @@
+{% extends 'DemoApp/base.html' %}
+{% block title %}Logout{% endblock %}
+{% block content %}
+<div class="container">
+	<div class="card mt-3 mx-auto col-md-6">
+		<h2 class="bg-dark text-white text-center border-rounded">Logged Out </h2>
+		<h3>
+			Click here to Login again
+		</h3>
+		<a href="{% url 'login' %}" class="btn btn-outline-primary mt-2">Login</a>
+	</div>
+</div>
+{% endblock %}

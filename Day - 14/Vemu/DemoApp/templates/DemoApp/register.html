@@ -1,0 +1,20 @@
+{% extends 'DemoApp/base.html' %}
+{% block title %}Register{% endblock %}
+{% block content %}
+<div class="container">
+	<div class="card mt-3 mx-auto col-md-6">
+		<h2 class="bg-secondary text-white text-center mx-2 my-2 p-2">Register Page</h2>
+		<form method="POST">
+			{% csrf_token %}
+			<table class="table table-bordered">
+				{% for i in data %}
+				<tr>
+					<td>{{i}}</td>
+				</tr>
+				{% endfor %}
+			</table>
+			<input type="submit" name="submit" value="Subscribe" class="form-control btn btn-outline-success mb-2">
+		</form>
+	</div>
+</div>
+{% endblock %}
