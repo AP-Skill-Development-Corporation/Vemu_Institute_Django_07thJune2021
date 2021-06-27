@@ -25,3 +25,25 @@ https://drive.google.com/file/d/1_xHDT1zPHxjP-z-P8HDiJUGdaixQ5Mqi/view
 [Day 10](https://transcripts.gotomeeting.com/#/s/ad44c1fd29d8841d0fa2148ac438e7304b1ff924c154c483245feff5e43dc5c4)
 
 [Day 11](https://transcripts.gotomeeting.com/#/s/009870b487dccf845a01b3193ad0c75c1dd152061531d7261073ec656134e8d3)
+
+[Day 12](https://transcripts.gotomeeting.com/#/s/a0d987e4f9057150d4123a1350623ab4d6726bda19f5ae8edf9e922317b4de36)
+
+[Day 14](https://transcripts.gotomeeting.com/#/s/b004447aeea280c4636eb987f1efbce048d8fa225e01e47bd5297c6b6a1fc61b)
+
+[Day 15](https://transcripts.gotomeeting.com/#/s/0fb4e0668b0114f0832aa978cec61e48e6e08a4ed567d4f8ededb9b4da382bce)
+
+[Day 16](https://transcripts.gotomeeting.com/#/s/115e56a963395cc90a7575eaba41a77a5443f130d8d2155820f553ce6f2d6b87)
+
+[Day 17](https://transcripts.gotomeeting.com/#/s/1a37050f0f8e7e1d4f4bbf2f46bffc42a354cda4606b3c4c1c038986f795dc5d)
+
+[Day 18](https://transcripts.gotomeeting.com/#/s/0f31f6eb8c0ffb8e0ab9c452e4624edb7d18c5298bc599c09c51647bbbd50153)
+
+
+
+
+
+
+
+
+
+
